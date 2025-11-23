@@ -1,0 +1,8 @@
+{
+    "method": "ternary",
+    "timestamp": "20251123_134403",
+    "model_type": "LogisticRegression",
+    "accuracy": 0.8713,
+    "f1_score": 0.8540431574908193,
+    "training_date": "2025-11-23 13:44:03"
+}
